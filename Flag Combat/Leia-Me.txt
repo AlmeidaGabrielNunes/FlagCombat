@@ -1,0 +1,11 @@
+FLAG COMBAT
+
+Linguagem/Engines/Bibliotecas: C, C++ com biblioteca gráfica BGI.
+Propósito: Disciplina de Programação II
+
+Equipe:
+
+Gabriel Almeida
+Hamilton Santos
+Kledilson Oliveira
+Lucas Favaro
